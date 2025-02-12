@@ -43,4 +43,4 @@ A **Incode Tech School** nasceu para formar os desenvolvedores do futuro, oferec
 
 ---
 
-<p align="center">🚀 <strong>Junte-se à InCode Tech School e transforme sua carreira com código! 💡💻</strong> 🚀</p>
+<p align="center">🚀 <strong>Junte-se à Incode Tech School e transforme sua carreira com código! 💡💻</strong> 🚀</p>
