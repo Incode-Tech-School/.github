@@ -1,3 +1,5 @@
+![Incode](https://i.imgur.com/uYw21Nb.png)
+
 <h1 align="center">🚀 Incode Tech School 💻</h1>  
 
 <p align="center">
