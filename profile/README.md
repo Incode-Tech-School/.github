@@ -15,7 +15,7 @@
 ---
 
 ## 📌 Quem Somos?  
-A **InCode Tech School** nasceu para formar os desenvolvedores do futuro, oferecendo um ensino moderno, prático e direto ao ponto. Acreditamos que a melhor forma de aprender a programar é **codando na prática!**  
+A **Incode Tech School** nasceu para formar os desenvolvedores do futuro, oferecendo um ensino moderno, prático e direto ao ponto. Acreditamos que a melhor forma de aprender a programar é **codando na prática!**  
 
 ## 🧑‍💻 O Que Você Vai Aprender?  
 🐍 **Lógica de Programação** (Python)  
