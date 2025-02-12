@@ -38,7 +38,7 @@ A **InCode Tech School** nasceu para formar os desenvolvedores do futuro, oferec
 ## 💬 Conecte-se Conosco!  
 <!-- 📩 **Contato:** [contato@incode.tech](mailto:contato@incode.tech)  -->
 🔗 **Instagram:** [@incode.tech](https://instagram.com/incode.tech)  
-💼 **LinkedIn:** [InCode Tech School](https://www.linkedin.com/school/incode-tech-school/posts/?feedView=all)  
+💼 **LinkedIn:** [Incode Tech School](https://www.linkedin.com/school/incode-tech-school/posts/?feedView=all)  
 <!--📺 **YouTube:** [InCode Tech](https://youtube.com/@incode.tech)  -->
 
 ---
